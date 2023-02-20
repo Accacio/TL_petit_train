@@ -1,0 +1,25 @@
+$**************** KCG Version 6.4 (build i21) ****************
+** Command: kcg64.exe -config C:/WindRiver/workspace/TR4/TL/config.txt
+** Generation date: 2017-10-11T17:54:54
+*************************************************************$
+*** Post-namespace Warning (WAR_508): Unused flow
+  at file C:/WindRiver/workspace/TR4/TL/scade_model_without_unused.scade, line 7000, character 0
+  at path Architecture::entree_atelier/C16/
+ The local variable C16 is never used
+*** Type Warning (WAR_151): Internal state expected
+  at file C:/WindRiver/workspace/TR4/TL/scade_model_without_unused.scade, line 10977, character 0
+  at path Architecture::repartition_cmd/
+ Node repartition_cmd has no internal state
+ (it should probably be declared as a function)
+*** Type Warning (WAR_151): Internal state expected
+  at file C:/WindRiver/workspace/TR4/TL/scade_model_without_unused.scade, line 10473, character 0
+  at path Architecture::repartition_capteurs/
+ Node repartition_capteurs has no internal state
+ (it should probably be declared as a function)
+3 warnings were found
+No error was found
+No failure occurred
+$**************** KCG Version 6.4 (build i21) ****************
+** C:/WindRiver/workspace/TR4/TL\kcg.log
+** Generation date: 2017-10-11T17:54:54
+*************************************************************$

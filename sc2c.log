@@ -1,0 +1,36 @@
+$**************  SCADETOC Version R16.1 (build i4) **************
+** Generation date: 2017-10-11T17:54:54
+** Command: scade -code "H:\collignon_lou\TL1\Suite\TL1.etp" -root Architecture::Partie_reactive -conf Default
+*************************************************************$
+*** Generated Files Information (GENFIL): KCG- Generated files
+ ~kcg_trace.xml
+  at file C:\WindRiver\workspace\TR4\TL\kcg_trace.xml, line 0, character 0
+ ~kcg_metrics.txt
+  at file C:\WindRiver\workspace\TR4\TL\kcg_metrics.txt, line 0, character 0
+ ~Partie_reactive_Architecture.c
+  at file C:\WindRiver\workspace\TR4\TL\Partie_reactive_Architecture.c, line 0, character 0
+ ~Partie_reactive_Architecture.h
+  at file C:\WindRiver\workspace\TR4\TL\Partie_reactive_Architecture.h, line 0, character 0
+ ~kcg_types.h
+  at file C:\WindRiver\workspace\TR4\TL\kcg_types.h, line 0, character 0
+ ~kcg_consts.h
+  at file C:\WindRiver\workspace\TR4\TL\kcg_consts.h, line 0, character 0
+ ~kcg_sensors.h
+  at file C:\WindRiver\workspace\TR4\TL\kcg_sensors.h, line 0, character 0
+ ~kcg_types.c
+  at file C:\WindRiver\workspace\TR4\TL\kcg_types.c, line 0, character 0
+ ~kcg_consts.c
+  at file C:\WindRiver\workspace\TR4\TL\kcg_consts.c, line 0, character 0
+*** Generated Files Information (GENFIL): Code Generator Generated files
+ ~user_macros.h
+  at file C:\WindRiver\workspace\TR4\TL\user_macros.h, line 0, character 0
+ ~kcg_imported_types.h
+  at file C:\WindRiver\workspace\TR4\TL\kcg_imported_types.h, line 0, character 0
+ ~sc2c.log
+  at file C:\WindRiver\workspace\TR4\TL\sc2c.log, line 0, character 0
+ ~sc2c_integration_files.txt
+  at file C:\WindRiver\workspace\TR4\TL\sc2c_integration_files.txt, line 0, character 0
+$**************  SCADETOC Version R16.1 (build i4) **************
+** Generation date: 2017-10-11T17:54:54
+** sc2c.log
+*************************************************************$

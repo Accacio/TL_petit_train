@@ -1,0 +1,9 @@
+kcg_trace.xml
+kcg_metrics.txt
+Partie_reactive_Architecture.c
+Partie_reactive_Architecture.h
+kcg_types.h
+kcg_consts.h
+kcg_sensors.h
+kcg_types.c
+kcg_consts.c
